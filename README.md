@@ -1,3 +1,3 @@
 # insta-shohor
 
-for practice debugging practice
+for practice debugging 
